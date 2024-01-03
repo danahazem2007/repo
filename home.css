@@ -1,0 +1,79 @@
+ body{
+    margin: 0;
+    padding: 0;
+ }
+ header{
+    text-align: center;
+    color: black;
+    border-color: aqua;
+    border-radius: 50px;
+}
+nav{
+    padding: 20px; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 10px;
+    color: #000;
+    margin-left: 200px;
+    
+}
+.p{
+    margin-left: 110px;
+
+}
+.h{
+    margin-left: 150px;
+}
+.bb{
+    margin-left: 150px;
+    font-size: larger;font-family: unset;
+    
+}
+#shose{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 70px;
+    overflow: hidden;
+}
+#pants{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 70px;
+    overflow: hidden;
+}
+T#-shrit{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 70px;
+    overflow: hidden;
+}
+#caps{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 70px;
+    overflow: hidden;
+}
+footer{
+    background-color: gainsboro;
+    width: 100%;
+    height: 150px;
+    
+}
+.f{
+    display: flex;
+}
+
+

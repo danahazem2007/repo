@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+#formsignup{
+
+    background-color: aquamarine;
+    width: 300px;
+    height: 350px;
+   margin: 0 auto;
+   margin-top: 50px;
+
+}
+#formsignup input{
+
+    margin: 10px;
+}
+#formsignin{
+
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px;
+   margin: 0 auto;
+   margin-top: 100px;
+  
+
+}
+#formsignin input{
+
+    margin: 10px;
+}
+#formforget{
+
+    background-color: aquamarine;
+    width: 300px;
+    height: 200px;
+   margin: 0 auto;
+   margin-top: 100px;
+
+}
+#formforget input{
+
+    margin: 10px;
+}
